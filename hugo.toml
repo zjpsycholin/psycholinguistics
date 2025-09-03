@@ -1,0 +1,88 @@
+baseURL = "https://zjpsycholin.github.io/SLA4ug/"
+languageCode = "en-us"
+title = "Second Language Acquisition (Undergraduate)"
+theme = "archie"
+copyright = "© Zhang Jun"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  mode = "auto"
+  useCDN = false
+  subtitle = ""
+  katex = true
+
+[menu]
+  [[menu.main]]
+    name = "Welcome"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Syllabus"
+    url = "/syllabus/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Week1"
+    url = "/week1/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Week2"
+    url = "/week2/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Week3"
+    url = "/week3/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Week4"
+    url = "/week4/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Week5"
+    url = "/week5/"
+    weight = 7
+
+  [[menu.main]]
+    name = "Week6"
+    url = "/week6/"
+    weight = 8
+
+  [[menu.main]]
+    name = "Week7"
+    url = "/week7/"
+    weight = 9
+
+  [[menu.main]]
+    name = "Week8"
+    url = "/week8/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Week9"
+    url = "/week9/"
+    weight = 11
+
+  [[menu.main]]
+    name = "Week10"
+    url = "/week10/"
+    weight = 12
+
+  [[menu.main]]
+    name = "Week11"
+    url = "/week11/"
+    weight = 13
+
+  [[menu.main]]
+    name = "Week12"
+    url = "/week12/"
+    weight = 14
