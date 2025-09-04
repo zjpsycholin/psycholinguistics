@@ -21,7 +21,7 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
         with:
-          submodules: true      # set true if themes/archie is a git submodule
+          submodules: false
           fetch-depth: 0
 
       - name: Setup Hugo
