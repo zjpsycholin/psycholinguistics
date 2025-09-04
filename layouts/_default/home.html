@@ -1,8 +1,32 @@
 {{ define "main" }}
 <main class="content">
   <article>
-    <div class="title"><h1>{{ .Title }}</h1></div>
-    {{ .Content }}
+    <div class="title"><h1>{{ .Site.Title }}</h1></div>
+
+    {{ with .Content }}
+      {{ . }}
+      <hr>
+    {{ end }}
+
+    <h3>Start here</h3>
+    <ul>
+      {{/* Link to core pages if they exist */}}
+      {{ with site.GetPage "syllabus" }}<li><a href="{{ .RelPermalink }}">Syllabus</a></li>{{ end }}
+      {{ with site.GetPage "week1" }}<li><a href="{{ .RelPermalink }}">Week 1</a></li>{{ end }}
+      {{ with site.GetPage "week2" }}<li><a href="{{ .RelPermalink }}">Week 2</a></li>{{ end }}
+
+      {{/* Or list all top-level regular pages (exclude posts) */}}
+      {{ $pages := where .Site.RegularPages "Section" "not in" (slice "post" "posts") }}
+      {{ if gt (len $pages) 0 }}
+        <hr>
+        <h3>All pages</h3>
+        <ul>
+          {{ range $pages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </ul>
   </article>
 </main>
 {{ end }}
