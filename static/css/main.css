@@ -1,0 +1,18 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  background: #fff;
+  color: #232333;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: auto;
+  padding: 1rem;
+}
+a {
+  color: dodgerblue;
+  text-decoration: none;
+  border-bottom: 2px solid dodgerblue;
+}
+a:hover {
+  background: navy;
+  color: white;
+}

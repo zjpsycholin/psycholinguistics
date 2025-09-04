@@ -1,0 +1,5 @@
+{{ if .Site.IsServer }}
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+{{ else }}
+<link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+{{ end }}

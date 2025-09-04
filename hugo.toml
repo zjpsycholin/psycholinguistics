@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Second Language Acquisition (Undergraduate)"
 theme = "archie"
 copyright = "© Zhang Jun"
+relativeURLs = true
+canonifyURLs = true
 
 [markup]
   [markup.highlight]
