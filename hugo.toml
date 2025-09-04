@@ -20,7 +20,7 @@ copyright = "© Zhang Jun"
 [menu]
   [[menu.main]]
     name = "Welcome"
-    url = "/welcome/"
+    url = "/"
     weight = 1
 
   [[menu.main]]
