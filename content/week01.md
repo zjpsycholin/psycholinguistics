@@ -23,15 +23,17 @@ By the end of Week 1, you should be able to:
 ---
 
 ## 📖 Required Reading
-- **Chapter 1 (pp. 1–28)** from *Introduction to Psycholinguistics: Understanding Language Science* (1st ed.) by Matthew Traxler.    
-[Link to Chapter 1](/psycholin/pdfs/Chapter1_compressed.pdf)
+- **Chapter 1 (pp. 1–28)** from *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.) by Matthew Traxler.    
+[Link to Chapter 1](/psycholinguistics/pdfs/C1.pdf)
 
 ---
 
 ## ❗ Key Issues
 
 ### 1) What is Psycholinguistics?
-Psycholinguistics studies **how language is processed and represented in the mind**—how we comprehend, produce, and acquire language. It draws on **linguistics (structure)**, **cognitive psychology (mental processes)**, **neuroscience (brain systems)**, and **philosophy (meaning & thought)**.  
+Psycholinguistics studies **how language is processed and represented in the mind**—how we comprehend, produce, and acquire language. It draws on **linguistics (structure)**, **cognitive psychology (mental processes)**, **neuroscience (brain systems)**, and **philosophy (meaning & thought)**.    
+
+
 **Guiding questions:** How do we understand and produce speech? How do children acquire language? What brain areas support language? Can animals learn language?
 
 ---
@@ -81,8 +83,7 @@ Evidence includes ape communication, vocal tract/brain adaptations, and cultural
 
 ## ✅ Before Class (Prep Checklist)
 1. **Read** Ch. 1 (pp. 1–28). As you read, mark examples of each **design feature**.
-2. **Language Belief Survey**: jot down quick opinions on (i) dialects & “correctness”, (ii) animal language, (iii) whether language shapes thought.
-3. **Optional video (5 min)**: [Kanzi the Bonobo Demonstrates Lexigrams](https://www.youtube.com/watch?v=HJZ9DgRGF9U).
+
 
 ---
 
@@ -123,9 +124,15 @@ Evidence includes ape communication, vocal tract/brain adaptations, and cultural
 - **If Pirahã lacks recursion, is recursion not universal?** The debate is ongoing; treat claims cautiously and look at broader evidence.
 
 ---
+**Extra**: 
+
+- [Did you know there’s a talking gorilla? – BBC](https://www.youtube.com/watch?v=s1HcU7taTbo)
+- [Koko the Gorilla Signs – 60 Minutes](https://www.youtube.com/watch?v=1gfoBJnfK9c)
+
+---
 
 ## 🧭 Looking Ahead
-**Week 2–3: Speech Planning & Errors (Ch. 2, pp. 37–51).**  
+**Week 2–3: Speech Planning & Errors.**  
 Bring one real slip of the tongue you notice during the week (yours or someone else’s)!
 
 

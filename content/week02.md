@@ -27,7 +27,8 @@ By the end of Week 2, you should be able to:
 
 ## 📖 Required Reading
 
-- **Traxler (1st ed.), Chapter 2, pp. 37–51** — *Speech Production & Comprehension* (production focus for Week 2).
+- **Traxler (2nd ed.), Chapter 2, pp. 37–51** — *Speech Production & Comprehension* (production focus for Week 2).   
+[Link to Chapter 2](/psycholinguistics/pdfs/C2.pdf)
 
 ---
 

@@ -35,24 +35,20 @@ By the end of the course, students will:
 
 **Required Textbook:**
 
-- Traxler, M. J. (2012). *Introduction to Psycholinguistics: Understanding Language Science* (1st ed.). Wiley-Blackwell.
+- Traxler, M. J. (2023). *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.). Wiley-Blackwell.
 
 **Supplementary Readings:**
 
-- Selected journal articles and case studies (provided digitally).
 - Additional recommended texts:
   - Warren, P. (2012). *Introducing Psycholinguistics*. Cambridge University Press.
   - Harley, T. A. (2014). *The Psychology of Language: From Data to Theory* (4th ed.). Psychology Press.
+- Selected journal articles and case studies (provided digitally).
 
 ---
 
-## 📅 Course Schedule
+## 📅 18-week Course Schedule
 
-This schedule aligns with the 1st edition of *Introduction to Psycholinguistics: Understanding Language Science* by Matthew J. Traxler.
-
-Each week, we meet for **90 minutes**. This course emphasizes **hands-on learning**, **discussion**, and **student projects** over heavy textbook coverage. Readings are kept light (10–25 pages/week) and interactive activities are built into each session.
-
-## 📅 Course Schedule
+Each week, we meet for **90 minutes**. This course emphasizes **hands-on learning**, **discussion**, and **student projects** over heavy textbook coverage. Readings are kept light (10–25 pages/week) and hands-on learning activities are built into each session.
 
 | **Week** | **Topic** | **Reading** | **Class Activities** |
 |---|---|---|---|
@@ -105,23 +101,19 @@ Each week, we meet for **90 minutes**. This course emphasizes **hands-on learnin
 
 ## ✍️ Course Assignments
 
-### 1. Class Participation (15%)
+### 1. Class Participation (10%)
 Active, thoughtful participation in class discussions and activities is required. Respectful engagement and preparedness are essential.
 
-### 2. Biweekly Quizzes (25%)
-Short quizzes on reading comprehension and key concepts. Your lowest quiz grade will be dropped.
+### 2. Quizzes (20%, 5% * 4)
+Short quizzes on readings and key concepts. 
 
-### 3. Group Presentation (20%)
-Groups (3–5 students) will give a 15–20 minute presentation on a selected topic. Presentations begin in **Week 11** and should integrate reading material, empirical findings, and discussion questions.  
-Grading: 75% group grade + 25% individual contribution.
+### 3. Reflection Essays (20%)
+Two short essays critically reflecting on readings and connecting them to course material.  
+- Essay 1 Due:**Week 6**  
+- Essay 2 Due:**Week 13**
 
-### 4. Reflection Essays (15%)
-Two short essays (800–1,000 words each) critically reflecting on supplementary readings and connecting them to course material.  
-- **Essay 1 Due:** Week 6  
-- **Essay 2 Due:** Week 13
-
-### 5. Final Exam (25%)
-A comprehensive in-class exam during **Week 18**. It will include multiple-choice, short-answer, and essay-style questions covering all chapters and lectures.
+### 4. Final Project (50%)
+5–8 pages: research question, motivation, literature, hypotheses, design, predicted outcomes.
 
 ---
 
@@ -139,7 +131,7 @@ A comprehensive in-class exam during **Week 18**. It will include multiple-choic
 
 ## 📏 Course Policies
 
-- **Attendance**: Up to two unexcused absences allowed. Additional absences will reduce participation grade.
+- **Attendance**
 - **Lateness**: Repeated lateness will affect your participation score.
 - **Late Work**: Penalized 5% per day late, accepted up to 7 days. Extensions granted only with documented reason.
 - **Make-up Quizzes**: Not permitted without prior notice or documentation.
@@ -150,8 +142,7 @@ A comprehensive in-class exam during **Week 18**. It will include multiple-choic
   - **Disclosure Required**: Example: “ChatGPT was used to outline Essay 1 idea.”
 - **Tech Use**: Laptops are permitted for note-taking only. Phones must be silent and out of sight.
 - **Inclusivity & Respect**: All students are expected to contribute to a respectful, inclusive learning environment.
-- **Accessibility**: Students with disabilities should contact the university’s accommodation office. All efforts will be made to support diverse learning needs.
-- **Syllabus Changes**: Instructor reserves the right to modify the syllabus. Any changes will be communicated in class and via email.
+
 
 ---
 

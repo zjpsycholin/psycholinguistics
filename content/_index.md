@@ -9,7 +9,7 @@ title: "Welcome"
 
 Language is one of the most fascinating and powerful tools humans possess — but how do we use it so effortlessly every day? How do infants go from babbling to fluent speech? Why do we sometimes struggle to find the right words, or stumble over sentences we've said a hundred times before?
 
-This course, **Introduction to Psycholinguistics**, invites you to explore the **science behind language as a human cognitive ability**. Together, we'll examine **the processes that allow us to understand, produce, acquire, and mentally represent language**.
+This course, _Introduction to Psycholinguistics_, invites you to explore the *science behind language as a human cognitive ability*. Together, we'll examine *the processes that allow us to understand, produce, acquire, and mentally represent language*.
 
 Along the way, you'll encounter questions such as:
 
