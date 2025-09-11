@@ -1,11 +1,8 @@
----
-title: "Week 16: 🧠 Aphasia — The Breakdown of Language"
-subtitle: "Traxler (1st ed.), Ch. 13 (pp. 485–501) — Aphasia"
-date: 2025-08-17
-summary: "Classic aphasia syndromes (Broca, Wernicke, conduction), what they reveal about language systems, and why simple localization often fails. Practice with case diagnosis, lesion mapping, and sentence comprehension probes."
----
-
-
++++
+title = "Week 16: 🧠 Aphasia — The Breakdown of Language"
+date = "2025-06-18T10:03:44-04:00"
+draft = false
++++
 
 
 

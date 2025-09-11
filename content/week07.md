@@ -1,9 +1,8 @@
----
-title: "Week 7: 🧩 Sentence Processing I"
-subtitle: "Traxler, Ch. 4 (pp. 141–154) — Sentence Processing"
-tags: ["discourse processing", "situation models", "coherence", "event indexing", "world knowledge"]
-summary: "How the mind builds sentence structure in real time: garden-path effects, core parsing heuristics (Minimal Attachment, Late Closure), and why sentences sometimes trick us."
----
++++
+title = "Week 7: 🧩 Sentence Processing I"
+date = "2025-05-19T10:03:44-04:00"
+draft = false
++++
 
 To be published ...
 

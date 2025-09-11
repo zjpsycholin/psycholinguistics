@@ -1,8 +1,8 @@
----
-date: "2025-04-18T10:03:44-04:00"
-draft: false
-title: "Syllabus"
----
++++
+date = "2025-04-18T10:03:44-04:00"
+draft = false
+title = "Syllabus"
++++
 
 
 # 📘 Course Syllabus: *Introduction to Psycholinguistics*

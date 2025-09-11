@@ -1,8 +1,8 @@
----
-title: "Week 2: Speech Planning & Errors I"
-tags: ["speech production", "planning", "speech errors", "lexical access"]
-summary: "Examines the stages of speech planning, evidence from slips of the tongue, and models like spreading activation and lemma theory."
----
++++
+title = "Week 2: Speech Planning & Errors I"
+date = "2025-04-30T10:03:44-04:00"
+draft = false
++++
 
 
 ## 📘 Overview

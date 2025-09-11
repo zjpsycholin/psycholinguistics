@@ -1,9 +1,8 @@
----
-title: "Week 15: 🌐 Bilingual Minds II"
-subtitle: "Traxler (1st ed.), Ch. 11 (pp. 431–447) — continued"
-date: 2025-08-17
-summary: "Language control, switching, and the brain: asymmetrical switch costs, reversed dominance, structural priming across languages, and neural control networks. Includes code-switching analysis, color-cued switching, translation Stroop, and brain-imaging takeaways."
----
++++
+title = "Week 15: 🌐 Bilingual Minds II"
+date = "2025-06-15T10:03:44-04:00"
+draft = false
++++
 
 
 To be published ...

@@ -1,10 +1,8 @@
----
-title: "Week 9: 🎭 Metaphor & Idioms"
-subtitle: "Traxler (1st ed.), Ch. 7 (pp. 267–285) — Nonliteral Language Processing"
-summary: "How we understand figurative language: theories of metaphor, how idioms are stored/processed, and what familiarity, transparency, and context do. With activities for metaphor generation and idiom matching."
----
-
-
++++
+title = "Week 9: 🎭 Metaphor & Idioms"
+date = "2025-05-30T10:03:44-04:00"
+draft = false
++++
 
 To be published ...
 

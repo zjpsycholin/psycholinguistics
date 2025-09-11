@@ -1,9 +1,8 @@
----
-title: "Week 17: Reflections and Wrap-Up"
-type: "post"
-weight: 17
----
-
++++
+title = "Week 17: Reflections and Wrap-Up"
+date = "2025-06-23T10:03:44-04:00"
+draft = false
++++
 
 
 To be published ...

@@ -1,8 +1,10 @@
----
-title: "Week 10: 💬 Pragmatics and Dialogue I"
-subtitle: "Traxler (1st ed.), Ch. 8 (pp. 305–315) — Dialogue (selected)"
-summary: "How conversation works: Grice’s maxims and implicature, scalar terms, speech acts, turn-taking, adjacency pairs, repair, and common ground. With skits and roleplay."
----
++++
+title = "Week 10: 💬 Pragmatics and Dialogue I"
+date = "2025-06-03T10:03:44-04:00"
+draft = false
++++
+
+
 
 To be published ...
 

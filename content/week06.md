@@ -1,9 +1,8 @@
----
-title: "Week 6: 🧠 Word Meaning & the Brain"
-subtitle: "Traxler, Ch. 3 (pp. 113–129) — Word Processing (Semantics)"
-tags: ["sentence processing", "parsing", "two-stage models", "constraint-based models", "garden-path"]
-summary: "How meanings are represented and accessed: ambiguity resolution, semantic networks, context effects, and brain signatures of meaning."
----
++++
+title = "Week 6: 🧠 Word Meaning & the Brain"
+date = "2025-05-19T10:03:44-04:00"
+draft = false
++++
 
 
 To be published ...

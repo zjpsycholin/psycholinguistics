@@ -1,9 +1,8 @@
----
-title: "Week 5: 📖 Lexical Access"
-subtitle: "Traxler, Ch. 3 (pp. 79–113) — Word Processing"
-summary: "How words are recognized in the mind: mental lexicon, frequency and neighborhood effects, semantic/morphological priming, lexical decision demos, and classic recognition models."
----
-
++++
+title = "Week 5: 📖 Lexical Access"
+date = "2025-05-15T10:03:44-04:00"
+draft = false
++++
 
 To be published ...
 

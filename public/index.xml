@@ -38,6 +38,13 @@
       <description>Classic aphasia syndromes (Broca, Wernicke, conduction), what they reveal about language systems, and why simple localization often fails. Practice with case diagnosis, lesion mapping, and sentence comprehension probes.</description>
     </item>
     <item>
+      <title>🧠 Week 1: What is Psycholinguistics?</title>
+      <link>http://localhost:1313/psycholinguistics/week01/</link>
+      <pubDate>Fri, 25 Apr 2025 10:03:44 -0400</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week01/</guid>
+      <description>&lt;h2 id=&#34;-overview&#34;&gt;📘 Overview&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to &lt;em&gt;Introduction to Psycholinguistics&lt;/em&gt;! This week, we begin by exploring what psycholinguistics is, what questions it asks, and how it connects to other fields. You’ll learn about what makes human language unique and how language relates to cognition, evolution, and communication.&lt;/p&gt;&#xA;&lt;p&gt;We’ll also discuss myths about language, compare human and non-human communication systems, and learn how language may (or may not) shape the way we think.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-learning-goals&#34;&gt;🎯 Learning Goals&lt;/h2&gt;&#xA;&lt;p&gt;By the end of Week 1, you should be able to:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Syllabus</title>
       <link>http://localhost:1313/psycholinguistics/syllabus/</link>
       <pubDate>Fri, 18 Apr 2025 10:03:44 -0400</pubDate>
@@ -127,13 +134,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/psycholinguistics/week09/</guid>
       <description>How we understand figurative language: theories of metaphor, how idioms are stored/processed, and what familiarity, transparency, and context do. With activities for metaphor generation and idiom matching.</description>
-    </item>
-    <item>
-      <title>🧠 Week 1: What is Psycholinguistics?</title>
-      <link>http://localhost:1313/psycholinguistics/week01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/psycholinguistics/week01/</guid>
-      <description>Explores the foundations of psycholinguistics, including what it studies, how it’s scientific, and why it’s interdisciplinary.</description>
     </item>
   </channel>
 </rss>

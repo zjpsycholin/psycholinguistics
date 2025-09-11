@@ -1,9 +1,8 @@
----
-title: "Week 3: 🔊 Speech Planning & Errors II"
-tags: ["speech perception", "phonemes", "coarticulation", "brain", "categorical perception"]
-summary: "Explores how humans perceive speech despite variability in the signal, using behavioral and neurological evidence."
----
-
++++
+title = "Week 3: 🔊 Speech Planning & Errors II"
+date = "2025-05-04T10:03:44-04:00"
+draft = false
++++
 
 ## 📘 Overview
 This week we extend Week 2’s production pipeline by digging deeper into **what errors tell us about planning**, how speakers **monitor and repair** speech, and how **articulation** shapes the final output. You’ll run an **error diary mini-study**, practice **self-monitoring** on short speaking tasks, and try **articulation drills** (minimal pairs & tongue twisters) to feel planning pressure and coarticulation effects.

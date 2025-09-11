@@ -1,10 +1,8 @@
----
-title: "Week 8: 🧩 Sentence Processing II"
-subtitle: "Traxler, Ch. 4 (pp. 155–181) — Sentence Processing"
-tags: ["discourse inference", "bridging", "elaborative", "situation model updating", "neural basis"]
-summary: "How ambiguity is resolved under memory limits: cue-based retrieval, interference, locality, surprisal/expectations, PP-attachment & relative clauses, plus hands-on parsing practice."
----
-
++++
+title = "Week 8: 🧩 Sentence Processing II"
+date = "2025-05-24T10:03:44-04:00"
+draft = false
++++
 
 To be published ...
 

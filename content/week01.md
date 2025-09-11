@@ -1,8 +1,8 @@
----
-title: "🧠 Week 1: What is Psycholinguistics?"
-tags: ["introduction", "language science", "research methods"]
-summary: "Explores the foundations of psycholinguistics, including what it studies, how it’s scientific, and why it’s interdisciplinary."
----
++++
+title = "🧠 Week 1: What is Psycholinguistics?"
+date = "2025-04-25T10:03:44-04:00"
+draft = false
++++
 
 
 ## 📘 Overview

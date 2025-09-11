@@ -1,10 +1,8 @@
----
-title: "Week 13: 🧠 Language Development II"
-subtitle: "Traxler (1st ed.), Ch. 9 (pp. 344–360) — Language Development"
-date: 2025-08-17
-summary: "How children learn word meanings and morpho-syntax: fast mapping, mutual exclusivity, syntactic bootstrapping for nouns/verbs, over-regularization and the Wug test, and competing models of morphological acquisition."
----
-
++++
+title = "Week 13: 🧠 Language Development II"
+date = "2025-06-12T10:03:44-04:00"
+draft = false
++++
 
 
 To be published ...

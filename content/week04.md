@@ -1,10 +1,8 @@
----
-title: "Week 4: 👂 Speech Perception & the Brain"
-subtitle: "Traxler, Ch. 2 (pp. 51–71) — Speech Perception"
-tags: ["word processing", "lexical access", "semantics", "embodied cognition"]
-summary: "How we recognize speech from a messy acoustic signal: coarticulation, categorical perception, audiovisual integration, classic theories, and the brain’s speech pathways."
----
-
++++
+title = "Week 4: 👂 Speech Perception & the Brain"
+date = "2025-05-09T10:03:44-04:00"
+draft = false
++++
 
 To be published ...
 

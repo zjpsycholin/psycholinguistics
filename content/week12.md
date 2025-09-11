@@ -1,8 +1,8 @@
----
-title: "Week 12: 👶 Language Development I"
-subtitle: "Traxler (1st ed.), Ch. 9 (pp. 325–344) — Language Development"
-summary: "How infants find words: prenatal learning, infant-directed speech, perceptual tuning, and the cues that solve the segmentation problem (statistics, prosody, phonotactics). Includes a hands-on Saffran-style demo and 'motherese' analysis."
----
++++
+title = "Week 12: 👶 Language Development I"
+date = "2025-06-08T10:03:44-04:00"
+draft = false
++++
 
 
 To be published ...

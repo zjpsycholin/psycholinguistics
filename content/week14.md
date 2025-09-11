@@ -1,9 +1,8 @@
----
-title: "Week 14: 🌐 Bilingual Minds I"
-subtitle: "Traxler (1st ed.), Ch. 11 (pp. 415–431) — Bilingual Language Processing"
-summary: "How bilinguals process words: simultaneous activation of both languages, cognate facilitation and false-friend interference, and the BIA+ model of access. Includes Stroop demo, cognate vs noncognate tasks, and audience-design of bilingual experiments."
----
-
++++
+title = "Week 14: 🌐 Bilingual Minds I"
+date = "2025-06-15T10:03:44-04:00"
+draft = false
++++
 
 To be published ...
 
