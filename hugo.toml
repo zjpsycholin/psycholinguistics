@@ -5,6 +5,9 @@ theme = "archie"
 copyright = "© Zhang Jun"
 
 
+
+
+
 [markup]
   [markup.highlight]
     noClasses = false
@@ -29,61 +32,33 @@ copyright = "© Zhang Jun"
     weight = 2
 
   [[menu.main]]
-    name = "Week1"
-    url = "/week1/"
+    name = "Chapter 1"
+    url = "/chapter1/"
     weight = 3
 
   [[menu.main]]
-    name = "Week2"
-    url = "/week2/"
+    name = "Chapter 2"
+    url = "/chapter2/"
     weight = 4
 
   [[menu.main]]
-    name = "Week3"
-    url = "/week3/"
+    name = "Chapter 3"
+    url = "/chapter3/"
     weight = 5
 
   [[menu.main]]
-    name = "Week4"
-    url = "/week4/"
+    name = "Chapter 4"
+    url = "/chapter4/"
     weight = 6
 
   [[menu.main]]
-    name = "Week5"
-    url = "/week5/"
+    name = "Chapter 5"
+    url = "/chapter5/"
     weight = 7
 
   [[menu.main]]
-    name = "Week6"
-    url = "/week6/"
+    name = "Chapter 6"
+    url = "/chapter6/"
     weight = 8
 
-  [[menu.main]]
-    name = "Week7"
-    url = "/week7/"
-    weight = 9
-
-  [[menu.main]]
-    name = "Week8"
-    url = "/week8/"
-    weight = 10
-
-  [[menu.main]]
-    name = "Week9"
-    url = "/week9/"
-    weight = 11
-
-  [[menu.main]]
-    name = "Week10"
-    url = "/week10/"
-    weight = 12
-
-  [[menu.main]]
-    name = "Week11"
-    url = "/week11/"
-    weight = 13
-
-  [[menu.main]]
-    name = "Week12"
-    url = "/week12/"
-    weight = 14
+  
