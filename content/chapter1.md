@@ -5,7 +5,7 @@ title = "Chapter 1 — Introduction to SLA: Definitions, Scope & Scientific Appr
 +++
 
 
-> **Anchor text:** Saville-Troike & Barto (2015). *Introducing Second Language Acquisition* (3rd ed.), **Chapter 1**.
+> **Anchor text:** Saville-Troike & Barto (2015). *Introducing Second Language Acquisition* (3rd ed.), **Chapter 1**. [Link to Chapter 1](/SLA4ug/pdfs/C1.pdf)
 
 ## ⭐ Overview
 - What **SLA** is, where it happens (**formal** vs **informal**), and **why it matters**.  

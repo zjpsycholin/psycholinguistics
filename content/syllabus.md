@@ -287,7 +287,7 @@ Course structure:
 
 ### Assignments
 
-#### Observation Log (2 × ~400 words each)
+#### Observation Log 
 Observe (or gather) brief samples of learner English (e.g., tutoring, film subtitles, corpora). Describe context, transcribe a small excerpt, analyze with course concepts, and propose a feedback or task idea.
 
 #### Reading Journal

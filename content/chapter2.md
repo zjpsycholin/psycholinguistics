@@ -5,7 +5,7 @@ title = "Chapter 2 — Foundations of Second Language Acquisition"
 +++
 
 
-> **Anchor text:** Saville-Troike & Barto (2015). *Introducing Second Language Acquisition* (3rd ed.), **Chapter 2**.
+> **Anchor text:** Saville-Troike & Barto (2015). *Introducing Second Language Acquisition* (3rd ed.), **Chapter 2**. [Link to Chapter 2](/SLA4ug/pdfs/C2.pdf)
 
 ## ⭐ Overview
 - Why **multilingualism** is the global norm and what **multi-competence** means.
