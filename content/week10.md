@@ -1,101 +1,14 @@
-<!DOCTYPE html>
-<html><head lang="en"><script src="/psycholinguistics/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=psycholinguistics/livereload" data-no-instant defer></script>
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Week 10: 💬 Pragmatics and Dialogue I - Introduction to Psycholinguistics</title><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="How conversation works: Grice’s maxims and implicature, scalar terms, speech acts, turn-taking, adjacency pairs, repair, and common ground. With skits and roleplay." />
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content="http://localhost:1313/psycholinguistics/week10/">
-  <meta property="og:site_name" content="Introduction to Psycholinguistics">
-  <meta property="og:title" content="Week 10: 💬 Pragmatics and Dialogue I">
-  <meta property="og:description" content="How conversation works: Grice’s maxims and implicature, scalar terms, speech acts, turn-taking, adjacency pairs, repair, and common ground. With skits and roleplay.">
-  <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="article">
+---
+title: "Week 10: 💬 Pragmatics and Dialogue I"
+subtitle: "Traxler (1st ed.), Ch. 8 (pp. 305–315) — Dialogue (selected)"
+summary: "How conversation works: Grice’s maxims and implicature, scalar terms, speech acts, turn-taking, adjacency pairs, repair, and common ground. With skits and roleplay."
+---
 
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Week 10: 💬 Pragmatics and Dialogue I">
-  <meta name="twitter:description" content="How conversation works: Grice’s maxims and implicature, scalar terms, speech acts, turn-taking, adjacency pairs, repair, and common ground. With skits and roleplay.">
+To be published ...
 
-        <link href="http://localhost:1313/psycholinguistics/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
-	
 
-	
-	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/psycholinguistics/css/main.6a0f23ea50fd34b46fee262a5a68e17d458c51a2bc99ba1ba018065de6b180c3.css" />
-		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://localhost:1313/psycholinguistics/css/dark.50b57e12d401420df23965fed157368aba37b76df0ecefd0b1ecd4da664f01a0.css" media="(prefers-color-scheme: dark)"  /><link rel="stylesheet" href="http://localhost:1313/psycholinguistics/katex/katex.min.css ">
-		<script defer src="http://localhost:1313/psycholinguistics/katex/katex.min.js"></script>
-		<script defer src="http://localhost:1313/psycholinguistics/katex/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
-		
-		<script>
-			document.addEventListener("DOMContentLoaded", function() {
-					renderMathInElement(document.body, {
-							delimiters: [
-									{left: "$$", right: "$$", display: true},
-									{left: "$", right: "$", display: false}
-							]
-					});
-			});
-		</script>
-</head>
-<body>
-        <div class="content"><header>
-	<div class="main">
-		<a href="http://localhost:1313/">Introduction to Psycholinguistics</a>
-	</div>
-	<nav>
-		
-		<a href="/psycholinguistics/">Welcome</a>
-		
-		<a href="/psycholinguistics/syllabus/">Syllabus</a>
-		
-		<a href="/psycholinguistics/week01/">Week-01</a>
-		
-		<a href="/psycholinguistics/week02/">Week-02</a>
-		
-		<a href="/psycholinguistics/week03/">Week-03</a>
-		
-		<a href="/psycholinguistics/week04/">Week-04</a>
-		
-		<a href="/psycholinguistics/week05/">Week-05</a>
-		
-		<a href="/psycholinguistics/week06/">Week-06</a>
-		
-		<a href="/psycholinguistics/week07/">Week-07</a>
-		
-		<a href="/psycholinguistics/week08/">Week-08</a>
-		
-		<a href="/psycholinguistics/week09/">Week-09</a>
-		
-		<a href="/psycholinguistics/week10/">Week-10</a>
-		
-		<a href="/psycholinguistics/week11/">Week-11</a>
-		
-		<a href="/psycholinguistics/week12/">Week-12</a>
-		
-		<a href="/psycholinguistics/week13/">Week-13</a>
-		
-		<a href="/psycholinguistics/week14/">Week-14</a>
-		
-		<a href="/psycholinguistics/week15/">Week-15</a>
-		
-		<a href="/psycholinguistics/week16/">Week-16</a>
-		
-		<a href="/psycholinguistics/week17/">Week-17</a>
-		
-		
-	</nav>
-</header>
 
-<main>
-  <article>
-    <div class="post-container">
-      
-      <div class="post-content">
-        <div class="title">
-          <h1 class="title">Week 10: 💬 Pragmatics and Dialogue I</h1>
-          <div class="meta">Posted on Jan 1, 1</div>
-        </div>
-        
-        <section class="body">
-          <p>To be published &hellip;</p>
+
 <!--
 ## 📘 Overview
 Everyday conversation seems effortless, but it relies on powerful **pragmatic principles** and **interactive routines**. This week introduces **Grice’s Cooperative Principle and maxims**, **conversational implicature** (including **scalar implicatures**), **speech acts** (direct vs indirect), and core structures of dialogue: **turn-taking**, **adjacency pairs**, and **repair**. We’ll also touch on **common ground** and **audience design**—how speakers tailor messages for specific listeners.
@@ -241,7 +154,8 @@ B: *Well, the room was very comfortable.* → Flouts **Relation**; implicates �
 <!--
 **Q5.** What’s the preferred pattern in **repair** and why?  -->
 <!-- Self-initiated self-repair is preferred: it is least disruptive and shows speaker responsibility for fixing trouble. -->
-<hr>
+
+---
 <!--
 ## 🧰 Key Terms
 **Cooperative Principle**, **Gricean Maxims (Quantity/Quality/Relation/Manner)**, **Conversational implicature**, **Scalar implicature**, **Cancelability**, **Speech act** (locutionary/illocutionary/perlocutionary), **Indirect request**, **Turn-taking**, **TRP**, **Adjacency pair**, **Preferred/dispreferred response**, **Repair**, **Backchannel**, **Common ground**, **Audience design**.
@@ -261,6 +175,16 @@ B: *Well, the room was very comfortable.* → Flouts **Relation**; implicates �
 - **After class:** annotate one real conversation for **pairs**, **backchannels**, **repairs**, and **implicatures**.
 
 -->
+
+
+
+
+
+
+
+
+
+
 <!--
 ## 📘 Overview
 
@@ -393,26 +317,3 @@ According to philosopher H.P. Grice, speakers follow four maxims when they aim t
 
 -->
 
-        </section>
-        <div class="post-tags">
-          
-        </div>
-      </div>
-
-      
-      
-    </div>
-
-    </article>
-</main>
-<footer>
-  <div style="display:flex"></div>
-  <div class="footer-info">
-    2025  © Zhang Jun |  <a
-      href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
-  </div>
-</footer>
-
-</div>
-    </body>
-</html>

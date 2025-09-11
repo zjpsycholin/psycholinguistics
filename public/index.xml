@@ -1,62 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Second Language Acquisition (Undergraduate)</title>
-    <link>http://localhost:1313/SLA4ug/</link>
-    <description>Recent content in Welcome on Second Language Acquisition (Undergraduate)</description>
+    <title>Welcome on Introduction to Psycholinguistics</title>
+    <link>http://localhost:1313/psycholinguistics/</link>
+    <description>Recent content in Welcome on Introduction to Psycholinguistics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Zhang Jun</copyright>
-    <lastBuildDate>Wed, 03 Sep 2025 16:04:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/SLA4ug/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/psycholinguistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter 6</title>
-      <link>http://localhost:1313/SLA4ug/chapter6/</link>
-      <pubDate>Wed, 03 Sep 2025 16:04:05 +0800</pubDate>
-      <guid>http://localhost:1313/SLA4ug/chapter6/</guid>
-      <description>&lt;p&gt;To be published&lt;/p&gt;</description>
+      <title>Week 17: Reflections and Wrap-Up</title>
+      <link>http://localhost:1313/psycholinguistics/week17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week17/</guid>
+      <description>&lt;p&gt;To be published &amp;hellip;&lt;/p&gt;&#xA;&lt;!--&#xA;## 🎯 Overview&#xA;&#xA;As we approach the end of the course, this week offers time to reflect on what you&#39;ve learned, how your thinking has evolved, and how psycholinguistics connects with your academic and personal interests. We’ll also discuss big-picture questions, review course themes, and gather your feedback to improve future iterations of this course.&#xA;&#xA;---&#xA;&#xA;## 📘 Core Activities&#xA;&#xA;- Course-wide **wrap-up discussion**&#xA;- Submit your **final project write-up** (if assigned)&#xA;- Optional **personal reflection** or learning journal&#xA;- Participate in an **anonymous course feedback survey**&#xA;&#xA;---&#xA;&#xA;## 🧠 Recap and Integration&#xA;&#xA;We&#39;ll revisit key ideas and ask:&#xA;&#xA;- What were the most surprising or memorable insights from the course?&#xA;- How did your understanding of language and mind change?&#xA;- Which topics would you like to explore more deeply in the future?&#xA;- How do psycholinguistic principles apply to real-world communication?&#xA;&#xA;---&#xA;&#xA;## 📝 Final Project Write-Up (if applicable)&#xA;&#xA;If your group or individual project includes a final written component, it is due this week.&#xA;&#xA;**Guidelines (unless otherwise noted by instructor):**&#xA;&#xA;- 800–1,500 words (flexible depending on format)&#xA;- Include:&#xA;  - Title&#xA;  - Research question/topic&#xA;  - Background and rationale&#xA;  - Method, analysis, or argument&#xA;  - Key findings or reflections&#xA;  - References (if used)&#xA;&#xA;Submit via [platform or method specified by instructor].&#xA;&#xA;---&#xA;&#xA;## ✍️ Optional: Personal Reflection&#xA;&#xA;You are encouraged (but not required) to write a brief reflection on your learning this semester.&#xA;&#xA;Prompts may include:&#xA;- What challenged you most in this course?&#xA;- What are you most proud of?&#xA;- Has this course changed how you think about language or mind?&#xA;- What would you say to a future student considering this course?&#xA;&#xA;---&#xA;&#xA;## 📋 Anonymous Course Feedback&#xA;&#xA;Please take 5–10 minutes to fill out the anonymous course feedback form.&#xA;&#xA;Your responses are **confidential** and help improve future versions of this course.&#xA;&#xA;[Insert feedback link here]&#xA;&#xA;---&#xA;&#xA;## 🎉 Congratulations!&#xA;&#xA;You’ve reached the end of *Introduction to Psycholinguistics*. Whether you’re continuing in linguistics, psychology, education, or another field, we hope this course has helped you see language as a rich and fascinating window into the human mind.&#xA;&#xA;--&gt;</description>
     </item>
     <item>
-      <title>Chapter 5</title>
-      <link>http://localhost:1313/SLA4ug/chapter5/</link>
-      <pubDate>Wed, 03 Sep 2025 16:04:01 +0800</pubDate>
-      <guid>http://localhost:1313/SLA4ug/chapter5/</guid>
-      <description>&lt;p&gt;To be published&lt;/p&gt;</description>
+      <title>Week 13: 🧠 Language Development II</title>
+      <link>http://localhost:1313/psycholinguistics/week13/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week13/</guid>
+      <description>How children learn word meanings and morpho-syntax: fast mapping, mutual exclusivity, syntactic bootstrapping for nouns/verbs, over-regularization and the Wug test, and competing models of morphological acquisition.</description>
     </item>
     <item>
-      <title>Chapter 4</title>
-      <link>http://localhost:1313/SLA4ug/chapter4/</link>
-      <pubDate>Wed, 03 Sep 2025 16:03:56 +0800</pubDate>
-      <guid>http://localhost:1313/SLA4ug/chapter4/</guid>
-      <description>&lt;p&gt;To be published&lt;/p&gt;</description>
+      <title>Week 15: 🌐 Bilingual Minds II</title>
+      <link>http://localhost:1313/psycholinguistics/week15/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week15/</guid>
+      <description>Language control, switching, and the brain: asymmetrical switch costs, reversed dominance, structural priming across languages, and neural control networks. Includes code-switching analysis, color-cued switching, translation Stroop, and brain-imaging takeaways.</description>
     </item>
     <item>
-      <title>Chapter 3</title>
-      <link>http://localhost:1313/SLA4ug/chapter3/</link>
-      <pubDate>Wed, 03 Sep 2025 16:03:52 +0800</pubDate>
-      <guid>http://localhost:1313/SLA4ug/chapter3/</guid>
-      <description>&lt;p&gt;To be published&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chapter 2 — Foundations of Second Language Acquisition</title>
-      <link>http://localhost:1313/SLA4ug/chapter2/</link>
-      <pubDate>Wed, 03 Sep 2025 16:03:43 +0800</pubDate>
-      <guid>http://localhost:1313/SLA4ug/chapter2/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Anchor text:&lt;/strong&gt; Saville-Troike &amp;amp; Barto (2015). &lt;em&gt;Introducing Second Language Acquisition&lt;/em&gt; (3rd ed.), &lt;strong&gt;Chapter 2&lt;/strong&gt;. &lt;a href=&#34;http://localhost:1313/SLA4ug/pdfs/C2.pdf&#34;&gt;Link to Chapter 2&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-overview&#34;&gt;⭐ Overview&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Why &lt;strong&gt;multilingualism&lt;/strong&gt; is the global norm and what &lt;strong&gt;multi-competence&lt;/strong&gt; means.&lt;/li&gt;&#xA;&lt;li&gt;How &lt;strong&gt;L1&lt;/strong&gt; and &lt;strong&gt;L2&lt;/strong&gt; learning compare across &lt;strong&gt;initial → intermediate → final&lt;/strong&gt; states.&lt;/li&gt;&#xA;&lt;li&gt;What drives &lt;strong&gt;similarities/differences&lt;/strong&gt; in outcomes: &lt;strong&gt;transfer&lt;/strong&gt;, &lt;strong&gt;input/interaction&lt;/strong&gt;, and &lt;strong&gt;facilitators&lt;/strong&gt; (feedback, aptitude, motivation, instruction).&lt;/li&gt;&#xA;&lt;li&gt;Big &lt;strong&gt;frameworks&lt;/strong&gt; that study SLA: &lt;strong&gt;linguistic&lt;/strong&gt;, &lt;strong&gt;psychological&lt;/strong&gt;, and &lt;strong&gt;social&lt;/strong&gt; perspectives.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-learning-outcomes&#34;&gt;🎯 Learning Outcomes&lt;/h2&gt;&#xA;&lt;p&gt;By the end of Chapter 2 you should be able to:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chapter 1 — Introduction to SLA: Definitions, Scope &amp; Scientific Approach</title>
-      <link>http://localhost:1313/SLA4ug/chapter1/</link>
-      <pubDate>Wed, 03 Sep 2025 16:03:09 +0800</pubDate>
-      <guid>http://localhost:1313/SLA4ug/chapter1/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Anchor text:&lt;/strong&gt; Saville-Troike &amp;amp; Barto (2015). &lt;em&gt;Introducing Second Language Acquisition&lt;/em&gt; (3rd ed.), &lt;strong&gt;Chapter 1&lt;/strong&gt;. &lt;a href=&#34;http://localhost:1313/SLA4ug/pdfs/C1.pdf&#34;&gt;Link to Chapter 1&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;-overview&#34;&gt;⭐ Overview&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What &lt;strong&gt;SLA&lt;/strong&gt; is, where it happens (&lt;strong&gt;formal&lt;/strong&gt; vs &lt;strong&gt;informal&lt;/strong&gt;), and &lt;strong&gt;why it matters&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;The &lt;strong&gt;three core questions&lt;/strong&gt;: &lt;em&gt;What do learners come to know? How do they acquire it? Why do learners differ?&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Framing concepts: &lt;strong&gt;L1 vs L2&lt;/strong&gt;, &lt;strong&gt;competence vs performance&lt;/strong&gt;, &lt;strong&gt;communicative competence&lt;/strong&gt;; SLA as &lt;strong&gt;multidisciplinary&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-learning-outcomes&#34;&gt;🎯 Learning Outcomes&lt;/h2&gt;&#xA;&lt;p&gt;By the end of Chapter 1 you should be able to:&lt;/p&gt;</description>
+      <title>Week 16: 🧠 Aphasia — The Breakdown of Language</title>
+      <link>http://localhost:1313/psycholinguistics/week16/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week16/</guid>
+      <description>Classic aphasia syndromes (Broca, Wernicke, conduction), what they reveal about language systems, and why simple localization often fails. Practice with case diagnosis, lesion mapping, and sentence comprehension probes.</description>
     </item>
     <item>
       <title>Syllabus</title>
-      <link>http://localhost:1313/SLA4ug/syllabus/</link>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/SLA4ug/syllabus/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Note: This syllabus outlines the plan for a 12-week, seminar-style course. Minor adjustments may be made as we progress.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time setup:&lt;/strong&gt; 12 weeks · 3 sessions/week · 45 minutes each&lt;br&gt;&#xA;&lt;strong&gt;Audience:&lt;/strong&gt; 3rd-year English majors (China) · No prior SLA background&lt;br&gt;&#xA;&lt;strong&gt;Website:&lt;/strong&gt; zjpsycholin.github.io/SLA4ug/&lt;br&gt;&#xA;&lt;strong&gt;Textbook (required):&lt;/strong&gt; Muriel Saville-Troike &amp;amp; Karen Barto (3rd ed.), &lt;em&gt;Introducing Second Language Acquisition&lt;/em&gt;. (We will use &lt;strong&gt;Chs. 1–6 only&lt;/strong&gt;)&lt;br&gt;&#xA;&lt;strong&gt;Language of instruction:&lt;/strong&gt; English (select bilingual support in activities when helpful)&lt;/p&gt;</description>
+      <link>http://localhost:1313/psycholinguistics/syllabus/</link>
+      <pubDate>Fri, 18 Apr 2025 10:03:44 -0400</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/syllabus/</guid>
+      <description>&lt;h1 id=&#34;-course-syllabus-introduction-to-psycholinguistics&#34;&gt;📘 Course Syllabus: &lt;em&gt;Introduction to Psycholinguistics&lt;/em&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Zhang Jun&lt;br&gt;&#xA;&lt;strong&gt;Class Schedule:&lt;/strong&gt; Two 45-minute sessions per week&lt;br&gt;&#xA;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:jzhang3@ahu.edu.cn&#34;&gt;jzhang3@ahu.edu.cn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-course-introduction&#34;&gt;🧠 Course Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Psycholinguistics&lt;/strong&gt; is the scientific study of how humans acquire, produce, understand, and represent language in the mind. This course introduces foundational theories, research methods, and key findings in the field, offering an integrated view of linguistic knowledge, language development, processing mechanisms, and neural underpinnings. Topics include speech perception, word recognition, sentence parsing, discourse comprehension, bilingualism, non-literal language, and sign language.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Week 10: 💬 Pragmatics and Dialogue I</title>
+      <link>http://localhost:1313/psycholinguistics/week10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week10/</guid>
+      <description>How conversation works: Grice’s maxims and implicature, scalar terms, speech acts, turn-taking, adjacency pairs, repair, and common ground. With skits and roleplay.</description>
+    </item>
+    <item>
+      <title>Week 11: Nonliteral Language – Metaphor &amp; Idioms</title>
+      <link>http://localhost:1313/psycholinguistics/week11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week11/</guid>
+      <description>Explores how we understand metaphors, idioms, and other nonliteral language through pragmatic, cognitive, and neural perspectives.</description>
+    </item>
+    <item>
+      <title>Week 12: 👶 Language Development I</title>
+      <link>http://localhost:1313/psycholinguistics/week12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week12/</guid>
+      <description>How infants find words: prenatal learning, infant-directed speech, perceptual tuning, and the cues that solve the segmentation problem (statistics, prosody, phonotactics). Includes a hands-on Saffran-style demo and &amp;lsquo;motherese&amp;rsquo; analysis.</description>
+    </item>
+    <item>
+      <title>Week 14: 🌐 Bilingual Minds I</title>
+      <link>http://localhost:1313/psycholinguistics/week14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week14/</guid>
+      <description>How bilinguals process words: simultaneous activation of both languages, cognate facilitation and false-friend interference, and the BIA+ model of access. Includes Stroop demo, cognate vs noncognate tasks, and audience-design of bilingual experiments.</description>
+    </item>
+    <item>
+      <title>Week 2: Speech Planning &amp; Errors I</title>
+      <link>http://localhost:1313/psycholinguistics/week02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week02/</guid>
+      <description>Examines the stages of speech planning, evidence from slips of the tongue, and models like spreading activation and lemma theory.</description>
+    </item>
+    <item>
+      <title>Week 3: 🔊 Speech Planning &amp; Errors II</title>
+      <link>http://localhost:1313/psycholinguistics/week03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week03/</guid>
+      <description>Explores how humans perceive speech despite variability in the signal, using behavioral and neurological evidence.</description>
+    </item>
+    <item>
+      <title>Week 4: 👂 Speech Perception &amp; the Brain</title>
+      <link>http://localhost:1313/psycholinguistics/week04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week04/</guid>
+      <description>How we recognize speech from a messy acoustic signal: coarticulation, categorical perception, audiovisual integration, classic theories, and the brain’s speech pathways.</description>
+    </item>
+    <item>
+      <title>Week 5: 📖 Lexical Access</title>
+      <link>http://localhost:1313/psycholinguistics/week05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week05/</guid>
+      <description>How words are recognized in the mind: mental lexicon, frequency and neighborhood effects, semantic/morphological priming, lexical decision demos, and classic recognition models.</description>
+    </item>
+    <item>
+      <title>Week 6: 🧠 Word Meaning &amp; the Brain</title>
+      <link>http://localhost:1313/psycholinguistics/week06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week06/</guid>
+      <description>How meanings are represented and accessed: ambiguity resolution, semantic networks, context effects, and brain signatures of meaning.</description>
+    </item>
+    <item>
+      <title>Week 7: 🧩 Sentence Processing I</title>
+      <link>http://localhost:1313/psycholinguistics/week07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week07/</guid>
+      <description>How the mind builds sentence structure in real time: garden-path effects, core parsing heuristics (Minimal Attachment, Late Closure), and why sentences sometimes trick us.</description>
+    </item>
+    <item>
+      <title>Week 8: 🧩 Sentence Processing II</title>
+      <link>http://localhost:1313/psycholinguistics/week08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week08/</guid>
+      <description>How ambiguity is resolved under memory limits: cue-based retrieval, interference, locality, surprisal/expectations, PP-attachment &amp;amp; relative clauses, plus hands-on parsing practice.</description>
+    </item>
+    <item>
+      <title>Week 9: 🎭 Metaphor &amp; Idioms</title>
+      <link>http://localhost:1313/psycholinguistics/week09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week09/</guid>
+      <description>How we understand figurative language: theories of metaphor, how idioms are stored/processed, and what familiarity, transparency, and context do. With activities for metaphor generation and idiom matching.</description>
+    </item>
+    <item>
+      <title>🧠 Week 1: What is Psycholinguistics?</title>
+      <link>http://localhost:1313/psycholinguistics/week01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholinguistics/week01/</guid>
+      <description>Explores the foundations of psycholinguistics, including what it studies, how it’s scientific, and why it’s interdisciplinary.</description>
     </item>
   </channel>
 </rss>

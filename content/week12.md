@@ -1,101 +1,13 @@
-<!DOCTYPE html>
-<html><head lang="en"><script src="/psycholinguistics/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=psycholinguistics/livereload" data-no-instant defer></script>
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Week 12: 👶 Language Development I - Introduction to Psycholinguistics</title><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="How infants find words: prenatal learning, infant-directed speech, perceptual tuning, and the cues that solve the segmentation problem (statistics, prosody, phonotactics). Includes a hands-on Saffran-style demo and &lsquo;motherese&rsquo; analysis." />
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content="http://localhost:1313/psycholinguistics/week12/">
-  <meta property="og:site_name" content="Introduction to Psycholinguistics">
-  <meta property="og:title" content="Week 12: 👶 Language Development I">
-  <meta property="og:description" content="How infants find words: prenatal learning, infant-directed speech, perceptual tuning, and the cues that solve the segmentation problem (statistics, prosody, phonotactics). Includes a hands-on Saffran-style demo and ‘motherese’ analysis.">
-  <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="article">
+---
+title: "Week 12: 👶 Language Development I"
+subtitle: "Traxler (1st ed.), Ch. 9 (pp. 325–344) — Language Development"
+summary: "How infants find words: prenatal learning, infant-directed speech, perceptual tuning, and the cues that solve the segmentation problem (statistics, prosody, phonotactics). Includes a hands-on Saffran-style demo and 'motherese' analysis."
+---
 
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Week 12: 👶 Language Development I">
-  <meta name="twitter:description" content="How infants find words: prenatal learning, infant-directed speech, perceptual tuning, and the cues that solve the segmentation problem (statistics, prosody, phonotactics). Includes a hands-on Saffran-style demo and ‘motherese’ analysis.">
 
-        <link href="http://localhost:1313/psycholinguistics/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
-	
+To be published ...
 
-	
-	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/psycholinguistics/css/main.6a0f23ea50fd34b46fee262a5a68e17d458c51a2bc99ba1ba018065de6b180c3.css" />
-		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://localhost:1313/psycholinguistics/css/dark.50b57e12d401420df23965fed157368aba37b76df0ecefd0b1ecd4da664f01a0.css" media="(prefers-color-scheme: dark)"  /><link rel="stylesheet" href="http://localhost:1313/psycholinguistics/katex/katex.min.css ">
-		<script defer src="http://localhost:1313/psycholinguistics/katex/katex.min.js"></script>
-		<script defer src="http://localhost:1313/psycholinguistics/katex/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
-		
-		<script>
-			document.addEventListener("DOMContentLoaded", function() {
-					renderMathInElement(document.body, {
-							delimiters: [
-									{left: "$$", right: "$$", display: true},
-									{left: "$", right: "$", display: false}
-							]
-					});
-			});
-		</script>
-</head>
-<body>
-        <div class="content"><header>
-	<div class="main">
-		<a href="http://localhost:1313/">Introduction to Psycholinguistics</a>
-	</div>
-	<nav>
-		
-		<a href="/psycholinguistics/">Welcome</a>
-		
-		<a href="/psycholinguistics/syllabus/">Syllabus</a>
-		
-		<a href="/psycholinguistics/week01/">Week-01</a>
-		
-		<a href="/psycholinguistics/week02/">Week-02</a>
-		
-		<a href="/psycholinguistics/week03/">Week-03</a>
-		
-		<a href="/psycholinguistics/week04/">Week-04</a>
-		
-		<a href="/psycholinguistics/week05/">Week-05</a>
-		
-		<a href="/psycholinguistics/week06/">Week-06</a>
-		
-		<a href="/psycholinguistics/week07/">Week-07</a>
-		
-		<a href="/psycholinguistics/week08/">Week-08</a>
-		
-		<a href="/psycholinguistics/week09/">Week-09</a>
-		
-		<a href="/psycholinguistics/week10/">Week-10</a>
-		
-		<a href="/psycholinguistics/week11/">Week-11</a>
-		
-		<a href="/psycholinguistics/week12/">Week-12</a>
-		
-		<a href="/psycholinguistics/week13/">Week-13</a>
-		
-		<a href="/psycholinguistics/week14/">Week-14</a>
-		
-		<a href="/psycholinguistics/week15/">Week-15</a>
-		
-		<a href="/psycholinguistics/week16/">Week-16</a>
-		
-		<a href="/psycholinguistics/week17/">Week-17</a>
-		
-		
-	</nav>
-</header>
 
-<main>
-  <article>
-    <div class="post-container">
-      
-      <div class="post-content">
-        <div class="title">
-          <h1 class="title">Week 12: 👶 Language Development I</h1>
-          <div class="meta">Posted on Jan 1, 1</div>
-        </div>
-        
-        <section class="body">
-          <p>To be published &hellip;</p>
 <!--
 ## 📘 Overview
 Infants don’t get spaces between words. Yet by the end of the first year they already **recognize familiar words** and use multiple **cues** to carve continuous speech into candidates for words. This week we look at **prenatal learning**, **infant-directed speech (IDS/motherese)**, classic **infant methods** (HAS, HPP, CHT), **categorical perception & perceptual narrowing**, and how **statistical learning**, **prosody**, and **phonotactics** help solve the **segmentation problem**.
@@ -212,7 +124,8 @@ By the end of Week 12, you should be able to:
 <!--
 **Q5.** Name one segmentation cue likely **stronger in English** than in **Mandarin**, and explain why.  -->
 <!-- Lexical stress/prosodic stress: English’s trochaic bias provides a robust cue, whereas Mandarin lacks fixed lexical stress and relies more on tone and syllable timing. -->
-<hr>
+
+---
 <!--
 ## 🧰 Key Terms
 **High-Amplitude Sucking (HAS)**, **Head-Turn Preference (HPP)**, **Conditioned Head-Turn (CHT)**, **Infant-Directed Speech (IDS)**, **Categorical perception**, **Perceptual narrowing**, **Segmentation**, **Transitional probability**, **Prosodic bootstrapping**, **Phonotactics**, **Allophonic cues**.
@@ -232,6 +145,11 @@ By the end of Week 12, you should be able to:
 - **After class:** compare your first pass to the revealed words and note which cue would have helped most.
 
 -->
+
+
+
+
+
 <!--
 ## 📘 Overview
 
@@ -342,26 +260,3 @@ This week we explore how language acquisition begins **before birth** and progre
 - Week 11: *Metaphor & Idioms*
 - Week 13: *Morphological & Syntactic Development*
 -->
-        </section>
-        <div class="post-tags">
-          
-        </div>
-      </div>
-
-      
-      
-    </div>
-
-    </article>
-</main>
-<footer>
-  <div style="display:flex"></div>
-  <div class="footer-info">
-    2025  © Zhang Jun |  <a
-      href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
-  </div>
-</footer>
-
-</div>
-    </body>
-</html>
