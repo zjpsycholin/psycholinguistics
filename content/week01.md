@@ -23,7 +23,7 @@ By the end of Week 1, you should be able to:
 ---
 
 ## 📖 Required Reading
-- **Chapter 1 (pp. 1–28)** from *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.) by Matthew Traxler.    
+- **Chapter 1 (pp. 1–29)** from *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.) by Matthew Traxler.    
 [Link to Chapter 1](/psycholinguistics/pdfs/C1.pdf)
 
 ---
