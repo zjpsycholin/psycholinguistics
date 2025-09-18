@@ -23,7 +23,7 @@ By the end of Week 1, you should be able to:
 ---
 
 ## 📖 Required Reading
-- **Chapter 1 (pp. 1–29)** from *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.) by Matthew Traxler.    
+- **Chapter 1 (pp. 1–31)** from *Introduction to Psycholinguistics: Understanding Language Science* (2nd ed.) by Matthew Traxler.    
 [Link to Chapter 1](/psycholinguistics/pdfs/C1.pdf)
 
 ---
@@ -108,6 +108,101 @@ Evidence includes ape communication, vocal tract/brain adaptations, and cultural
    - Language Log: *Pullum on the “Eskimo snow words” myth*  
    - Steven Pinker: *Linguistics & the Brain* (short talk)
 
+
+---
+
+## 🧪 In-Class Activity: Signals or Language? — A Design-Feature Audit
+
+**Topic:** Grammar, Language Origins, & Nonhuman Communication  
+**Goal:** Decide whether real communicative systems count as **language** by applying Hockett-style **design features** and a simple **grammar test** (is there rule-governed combination beyond isolated signals?).
+
+**What you’ll do (≈25 min):**
+1. Form groups of **3**. Grab one handout (below) and a pen.  
+2. For each short **case vignette**, check which **features** are present and argue **Language?** (Yes/No/Unclear).  
+3. Note **one piece of evidence** for or against **grammar** (rule-based combination, productivity, displacement).  
+4. Mark which origins view the case best supports: **Continuity** (gradual evolution) or **Discontinuity** (qualitative leap).  
+5. Be ready to **defend one judgment** to the class in 30 seconds.
+
+
+
+### 🧩 Feature & Grammar Checklist (use for each case)
+
+| Feature / Evidence | Present? | Notes (your evidence) |
+|---|:--:|---|
+| **Semanticity** (signals map to meanings) | ☐ |  |
+| **Arbitrariness** (conventional labels) | ☐ |  |
+| **Discreteness** (contrastive units) | ☐ |  |
+| **Displacement** (non-here/now talk) | ☐ |  |
+| **Duality of Patterning** (meaningless parts combine into meaningful units) | ☐ |  |
+| **Generativity** (open-ended combinations) | ☐ |  |
+| **Grammar?** (rule-governed combination beyond fixed signals) | ☐ | What rule/evidence? |
+| **Language?** (overall judgment) | Y / N / Unclear |  |
+| **Origins view** this supports | Continuity / Discontinuity | Why? |
+
+> 📝 Tip: “Grammar” here means **systematic combination** that yields **new meanings** (not just a memorized string or a request pattern).
+
+
+
+### 🔍 Case Vignettes (audit 4–6 of these)
+
+1) **Vervet Alarm Calls**  
+Distinct calls for eagle, leopard, snake; listeners respond appropriately (look up / climb / scan ground). **No evidence of combining** calls to make more complex messages.
+
+2) **Bee Waggle Dance**  
+Dance encodes **direction** and **distance** to food relative to the sun. Stable signal → meaning mapping; limited **arbitrariness** and **no productive syntax**.
+
+3) **Songbird Repertoires**  
+Learned, patterned songs (often culturally transmitted). Rich sequences but **little compositional meaning** (combinations don’t yield novel propositions).
+
+4) **Dog “Chaser” (Toy Names)**  
+Retrieves hundreds of objects by **arbitrary names**; can exclude by a **novel label**. Strong **lexical mapping**; little evidence of **grammar** or **displacement**.
+
+5) **Bonobo “Kanzi” (Lexigrams + Spoken Commands)**  
+Understands many **novel multi-step** instructions; uses lexigrams spontaneously. Strong **symbol use/comprehension**; limited evidence of **productive syntax/recursion**.
+
+6) **Chimp “Nim” (Signs)**  
+Many signs, mostly **requests**; some two-sign frames (*more X*, *give X*). Debate: **fixed habits** vs. **combinatorial rules**; weak **displacement**.
+
+7) **Human Child (≈2;6)**  
+Uses **displaced** reference (“Daddy come tomorrow”), combines **function words** and **inflections**, extends patterns to **novel** sentences (overregularization = rule use).
+
+8) **Creole / New Sign Language Emergence**  
+Children conventionalize limited input (pidgin/homesign) into a system with **word order**, **morphology**, and increased **productivity** within a generation.
+
+
+### 🧠 Quick Reference: The Six Features
+
+- **Semanticity:** signals carry specific meanings.  
+- **Arbitrariness:** form–meaning links are conventional (not iconic).  
+- **Discreteness:** small contrastive units combine categorically.  
+- **Displacement:** talk about things not here/now.  
+- **Duality of Patterning:** meaningless parts → meaningful units → larger structures.  
+- **Generativity:** finite rules → unbounded new messages.
+
+> **Language ≠ symbols alone.** We expect **grammar** (rule-based combination), **productivity**, and often **displacement**.
+
+
+
+### 🗣️ What to Hand In 
+
+1. **Two completed checklists** (choose any **two** cases you found most interesting).  
+2. A **one-paragraph verdict**:  
+   - Which cases you judged **Language** vs. **Not Language**, and **why** (cite ≥2 features + a grammar argument).  
+   - Which **origins view** your evidence favors (continuity or discontinuity), with one sentence of reasoning.
+
+
+
+### 💬 Discussion Prompts (for the debrief)
+
+- What single observation would **most convincingly** show **grammar** in an ape system?  
+- Why doesn’t **symbol use** (naming objects) by itself count as **language**?  
+- How do **creoles/new sign languages** inform the origins debate?  
+- Which feature was **hardest** to diagnose? Why?
+
+
+
+
+
 ---
 
 ## 🏠 Homework
@@ -115,7 +210,6 @@ Evidence includes ape communication, vocal tract/brain adaptations, and cultural
 - *Test Yourself* (Ch. 1): **Q1** (features), **Q2** (grammar), **Q4** (recursion), **Q6** (animal language).
 - **Think About It (~150 words)**:  
   *Imagine a new primate species. What behaviors would convince you they have language?* Be specific about **syntax**, **recursion**, **displacement**, and **generativity**.
-
 ---
 
 ## 🧩 Mini-FAQ

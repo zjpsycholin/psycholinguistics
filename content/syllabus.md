@@ -52,7 +52,7 @@ Each week, we meet for **90 minutes**. This course emphasizes **hands-on learnin
 
 | **Week** | **Topic** | **Reading** | **Class Activities** |
 |---|---|---|---|
-| 1️⃣ | 🧠 **What is Psycholinguistics?** | *Ch. 1 (pp. 1–28)* – An Introduction to Language Science | 📝 Language myth quiz · 📊 Student survey · 💬 Interactive discussion |
+| 1️⃣ | 🧠 **What is Psycholinguistics?** | *Ch. 1 (pp. 1–29)* – An Introduction to Language Science | 📝 Language myth quiz · 📊 Student survey · 💬 Interactive discussion |
 | 2️⃣ | 🔊 **Speech Planning & Errors I** | *Ch. 2 (pp. 37–51)* – Speech Production and Comprehension | 🗂️ Speech error analysis · 🧠 TOT sharing · 🎯 Naming tasks |
 | 3️⃣ | 🔊 **Speech Planning & Errors II** | *Ch. 2 (pp. 37–51)* – continued | 📓 Error diary mini-study · 🔍 Self-monitoring & repair analysis · 🗣️ Articulation drills |
 | 4️⃣ | 👂 **Speech Perception & the Brain** | *Ch. 2 (pp. 51–71)* – Speech Perception | 🎥 McGurk effect video · 🎤 Coarticulation demos · 📊 Theory comparisons |
@@ -106,8 +106,13 @@ Active, thoughtful participation in class discussions and activities is required
 
 ### 2. Quizzes (20%, 5% * 4)
 Short quizzes on readings and key concepts. 
+- Quiz 1: on **Chapter 1, Chapter 2**  
+- QUiz 2: on **Chapter 3, Chapter 4**
+- QUiz 3: on **Chapter 7, Chapter 8**
+- QUiz 4: on **Chapter 9, Chapter 11, Chapter 13**
 
-### 3. Reflection Essays (20%)
+
+### 3. Reflection Essays (20%, 10% * 2)
 Two short essays critically reflecting on readings and connecting them to course material.  
 - Essay 1 Due:**Week 6**  
 - Essay 2 Due:**Week 13**
